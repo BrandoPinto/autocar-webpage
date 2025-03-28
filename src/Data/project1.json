@@ -1,0 +1,22 @@
+[
+  {
+    "img": "/assets/img/portfolio_img_2.jpg",   
+    "title": "PPF FULL BODY MAZDA 3",
+    "desc": "Breve descripción."
+  },
+  {
+    "img": "/assets/img/portfolio_img_3.jpg",   
+    "title": "UNDERCOATING",
+    "desc": "Breve descripción."
+  },
+  {
+    "img": "/assets/img/portfolio_img_4.jpg",   
+    "title": "POLARIZADO 3M",
+    "desc": "Breve descripción."
+  },
+  {
+    "img": "/assets/img/portfolio_img_1.jpg",   
+    "title": "TRATAMIENTO CERÁMICO",
+    "desc": "Breve descripción."
+  }          
+]

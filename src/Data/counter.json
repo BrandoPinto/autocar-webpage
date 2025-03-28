@@ -1,0 +1,22 @@
+[
+  {
+    "img": "/assets/img/icons/counter_icon_1.svg",
+    "title": "500+",
+    "desc": "Vehículos Protegidos"
+  },
+  {
+    "img": "/assets/img/icons/counter_icon_2.svg",
+    "title": "300+",
+    "desc": "Clientes Satisfechos"
+  },
+  {
+    "img": "/assets/img/icons/counter_icon_3.svg",
+    "title": "200+",
+    "desc": "Proyectos Completados"
+  },
+  {
+    "img": "/assets/img/icons/counter_icon_4.svg",
+    "title": "50+",
+    "desc": "Reconocimientos Obtenidos"
+  }
+]

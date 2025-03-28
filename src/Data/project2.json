@@ -1,0 +1,27 @@
+[
+  {
+    "img": "/assets/img/portfolio_img_5.jpg",   
+    "title": "Toyota Ford Ranger 2019",
+    "desc": "PPF / Audio y Vídeo"
+  },
+  {
+    "img": "/assets/img/portfolio_img_7.jpg",   
+    "title": "Mazda 3",
+    "desc": "Lámina control solar"
+  },
+  {
+    "img": "/assets/img/portfolio_img_8.jpg",   
+    "title": "Kia Rio 2025",
+    "desc": "Undercoaing"
+  },
+  {
+    "img": "/assets/img/portfolio_img_6.jpg",   
+    "title": "Mini Cooper",
+    "desc": "PPF Full body / Tapizado"
+  },
+  {
+    "img": "/assets/img/portfolio_img_9.jpg",   
+    "title": "Volswagen Tiwan",
+    "desc": "Tapizado full"
+  }          
+]

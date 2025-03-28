@@ -1,0 +1,22 @@
+[
+  {
+    "img": "/assets/img/icon1.png",
+    "title": "Nuestra Misión",
+    "desc": "Brindar soluciones innovadoras y personalizadas para la protección y el embellecimiento automotriz, garantizando calidad y satisfacción para nuestros clientes."
+  },
+  {
+    "img": "/assets/img/icon2.png",
+    "title": "Nuestra Visión",
+    "desc": "Ser reconocidos como líderes en servicios automotrices premium, ofreciendo tecnología avanzada y un equipo altamente capacitado."
+  },
+  {
+    "img": "/assets/img/icon3.png",
+    "title": "Sobre Nosotros",
+    "desc": "En Autocar Servicio Automotriz somos especialistas en polarizados, undercoating, tratamiento cerámico, PPF y más. Nos dedicamos a cuidar y proteger tu vehículo como si fuera nuestro."
+  },
+  {
+    "img": "/assets/img/icon4.png",
+    "title": "Nuestros Valores",
+    "desc": "Compromiso, calidad, innovación y atención personalizada son los pilares que nos distinguen."
+  }
+]

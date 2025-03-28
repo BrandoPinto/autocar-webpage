@@ -1,0 +1,17 @@
+[
+  {
+    "img": "/assets/img/icons/car.svg",   
+    "title": "Caracterisitca 1",
+    "desc": "Texto de caracteristica."
+  },
+  {
+    "img": "/assets/img/icons/engine.svg",   
+    "title": "Caracterisitca 2",
+    "desc": "Texto de caracteristica."
+  },
+  {
+    "img": "/assets/img/icons/gear_icon_2.svg",   
+    "title": "Caracterisitca 3",
+    "desc": "Texto de caracteristica."
+  }   
+]
