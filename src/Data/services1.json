@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"img": "/assets/img/services/service_img_1.jpg",
-		"icon": "/public/assets/logo/logotipo.png",
+		"icon": "assets/logo/logotipo.png",
 		"title": "Tratamiento Cerámico",
 		"desc": "El tratamiento cerámico es una solución avanzada para proteger y preservar la pintura de tu automóvil. Este recubrimiento ofrece una barrera resistente contra elementos dañinos como rayos UV, suciedad, químicos y abrasiones. Además, mejora el brillo y la apariencia del vehículo, brindándole un acabado impecable que dura años.",
 		"btnText": "Ver Más",
@@ -22,7 +22,7 @@
 	{
 		"id": 2,
 		"img": "/assets/img/services/service_img_2.jpg",
-		"icon": "/public/assets/logo/logotipo.png",
+		"icon": "/assets/logo/logotipo.png",
 		"title": "PPF",
 		"desc": "(PPF) es una tecnología revolucionaria diseñada para proteger la superficie de tu vehículo contra rayones, manchas y otros daños. Este material invisible se adhiere perfectamente a la pintura del auto, brindando protección sin comprometer su apariencia. Ideal para mantener tu vehículo en perfecto estado.",
 		"btnText": "Ver Más",
@@ -42,7 +42,7 @@
 	{
 		"id": 3,
 		"img": "/assets/img/services/service_img_3.jpg",
-		"icon": "/public/assets/logo/logotipo.png",
+		"icon": "/assets/logo/logotipo.png",
 		"title": "Undercoating",
 		"desc": "El undercoating es un tratamiento especializado que protege el chasis de tu vehículo contra la corrosión y los daños provocados por condiciones adversas, como el agua, la sal y el barro. Este recubrimiento no solo prolonga la vida útil de tu vehículo, sino que también reduce el ruido de la carretera y mejora la calidad del manejo.",
 		"btnText": "Ver Más",
@@ -61,7 +61,7 @@
 	},
 	{
 		"id": 4,
-		"img": "/assets/img/services/service_img_4.jpg",
+		"img": "/img/services/service_img_4.jpg",
 		"icon": "/public/assets/logo/logotipo.png",
 		"title": "Alineamiento",
 		"desc": "Nuestro servicio de alineamiento computarizado utiliza tecnología de última generación para garantizar que las ruedas de tu vehículo estén perfectamente alineadas. Esto mejora la estabilidad, optimiza el rendimiento de los neumáticos y garantiza una experiencia de conducción más segura y cómoda.",
@@ -81,7 +81,7 @@
 	},
 	{
 		"id": 5,
-		"img": "/assets/img/services/service_img_5.jpg",
+		"img": "/img/services/service_img_5.jpg",
 		"icon": "/public/assets/logo/logotipo.png",
 		"title": "Audio y Video",
 		"desc": "Transforma la experiencia dentro de tu vehículo con nuestro servicio de equipamiento de audio y video. Instalamos sistemas de última generación que ofrecen calidad de sonido superior, pantallas de alta resolución y conectividad avanzada, brindando entretenimiento de primer nivel en cada viaje.",
@@ -101,7 +101,7 @@
 	},
 	{
 		"id": 6,
-		"img": "/assets/img/services/service_img_5.jpg",
+		"img": "/img/services/service_img_5.jpg",
 		"icon": "/public/assets/logo/logotipo.png",
 		"title": "Polarizado",
 		"desc": "Nuestro servicio de polarizado y control solar está diseñado para ofrecerte mayor confort y protección en el interior de tu vehículo. Reduce el calor, bloquea hasta el 99% de los rayos UV dañinos y mejora la estética de tu auto con una variedad de tonos y acabados disponibles.",
@@ -114,14 +114,14 @@
 			"Opciones de polarizado personalizadas"
 		],
 		"additionalImages": [
-			"/assets/img/services/service_img_6.jpg",
+			"/img/services/service_img_6.jpg",
 			"/assets/img/services/service_img_6.jpg",
 			"/assets/img/services/service_img_6.jpg"
 		]
 	},
 	{
 		"id": 7,
-		"img": "/assets/img/services/service_img_5.jpg",
+		"img": "/img/services/service_img_5.jpg",
 		"icon": "/public/assets/logo/logotipo.png",
 		"title": "Tapicería",
 		"desc": "Renueva y personaliza el interior de tu vehículo con nuestro servicio de tapizados personalizados. Ofrecemos materiales de alta calidad y diseños únicos que no solo mejoran la estética, sino que también brindan comodidad y durabilidad para el uso diario.",
@@ -141,7 +141,7 @@
 	},
 	{
 		"id": 8,
-		"img": "/assets/img/services/service_img_5.jpg",
+		"img": "/img/services/service_img_5.jpg",
 		"icon": "/public/assets/logo/logotipo.png",
 		"title": "Equipamiento Thule",
 		"desc": "Renueva y personaliza el interior de tu vehículo con nuestro servicio de tapizados personalizados. Ofrecemos materiales de alta calidad y diseños únicos que no solo mejoran la estética, sino que también brindan comodidad y durabilidad para el uso diario.",
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 9,
-		"img": "/assets/img/services/service_img_5.jpg",
+		"img": "/img/services/service_img_5.jpg",
 		"icon": "/public/assets/logo/logotipo.png",
 		"title": "Mantenimiento Preventivo",
 		"desc": "Renueva y personaliza el interior de tu vehículo con nuestro servicio de tapizados personalizados. Ofrecemos materiales de alta calidad y diseños únicos que no solo mejoran la estética, sino que también brindan comodidad y durabilidad para el uso diario.",

@@ -16,7 +16,7 @@ const Project1 = () => {
             </div>
           </div>
             <ul className="cs_tab_links cs_style_1 cs_heading_color cs_mp_0 wow fadeInDown">
-              <li className="active"><Link to="/project">Mira todos nuestros proyectos</Link></li>
+              <li className="active"><Link to="#">Mira todos nuestros proyectos</Link></li>
             </ul>
             </div>
             <div className="cs_height_60"></div>

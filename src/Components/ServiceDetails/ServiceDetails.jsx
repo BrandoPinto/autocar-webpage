@@ -137,7 +137,7 @@ const ServiceDetails = () => {
 										Ofrecemos servicios de calidad garantizada con atención
 										personalizada.
 									</p>
-									<Link to="/contact" className="cs_card_btn">
+									<Link to="https://api.whatsapp.com/send?phone=51941035240&text=Hola%2C%20me%20gustar%C3%ADa%20m%C3%A1s%20informaci%C3%B3n%20sobre%20...%20%F0%9F%9A%98" target='_blank' className="cs_card_btn">
 										<span>Cotiza Ahora</span>
 										<span>
 											<i className="bi bi-arrow-right"></i>
