@@ -8,7 +8,7 @@ const Brand1 = () => {
       }, []);
 
     return (
-        <div className="cs_brands_area">
+        <div className="cs_brands_area mt-5">
         <div className="container">
           <div className="cs_brands_wrapper cs_white_bg cs_heading_color cs_bg_filed" data-background="/assets/img/brand_bg_1.svg">
             <div className="cs_brand wow zoomIn">
