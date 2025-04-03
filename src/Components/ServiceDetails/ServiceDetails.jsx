@@ -28,7 +28,7 @@ const ServiceDetails = () => {
 						<div className="cs_banner">
 							<img
 								src={service.bannerImg}
-								alt="Service Banner"
+								alt="Banner del Servicio"
 								className="w-100 rounded-2xl shadow-lg"
 							/>
 						</div>
