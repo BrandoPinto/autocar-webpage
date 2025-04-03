@@ -10,7 +10,7 @@ const ServiceDetailsPage = () => {
                 Title="Detalle de Servicio"
             ></BreadCumb> 
             <ServiceDetails></ServiceDetails>      
-            <Project1/>     
+           {/* <Project1/>     */}
         </div>
     );
 };

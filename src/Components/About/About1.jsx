@@ -9,13 +9,13 @@ const About1 = ({img1,img2,img3,expNumber,expYers,expTitle,number,subTitle,Title
              <div className="col-xl-6">
                <div className="cs_about_thumbnail_wrapper position-relative">
                  <div className="cs_about_thumbnail">
-                   <img src={img1} alt="About Image" />
+                   <img src={img1} alt="Imagen Nosotros" />
                  </div>
                  <div className="cs_about_thumbnail">
-                   <img src={img2} alt="About Image" />
+                   <img src={img2} alt="Imagen Nosotros" />
                  </div>
                  <div className="cs_about_thumbnail">
-                   <img src={img3} alt="About Image" />
+                   <img src={img3} alt="Imagen Nosotros " />
                  </div>
                  <div className="cs_esperience_text position-absolute">
                    <h2 className="cs_experience_title mb-0">
@@ -26,7 +26,7 @@ const About1 = ({img1,img2,img3,expNumber,expYers,expTitle,number,subTitle,Title
                  </div>
                  <a className="cs_phone_call cs_heading_color">
                    <div className="cs_phone_icon cs_fs_24 cs_accent_color cs_center cs_radius_50">
-                   <i className="bi bi-telephone-x-fill"></i></div>
+                   <i className="bi bi-telephone-fill"></i></div>
                    <div className="cs_phone_number cs_fs_24 cs_semibold">{number}</div>
                  </a>
                  <div className="cs_about_shape_1 position-absolute">

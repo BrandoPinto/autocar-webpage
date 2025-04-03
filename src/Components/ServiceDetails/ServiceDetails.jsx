@@ -24,15 +24,14 @@ const ServiceDetails = () => {
 			<div className="cs_height_120 cs_height_lg_80"></div>
 			<div className="container">
 				<div className="row">
-					<div className="col-12">
-						{/*
+					<div className="col-12">						
 						<div className="cs_banner">
 							<img
-								src="/assets/img/service_banner.jpg"
+								src={service.bannerImg}
 								alt="Service Banner"
 								className="w-100 rounded-2xl shadow-lg"
 							/>
-						</div> */}
+						</div>
 					</div>
 					<div className="cs_height_40 cs_height_lg_20"></div>
 					<div className="col-xl-8 col-lg-7">

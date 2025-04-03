@@ -1448,8 +1448,8 @@ textarea {
 }
 
 .cs_fs_50 {
-  font-size: 50px;
-  line-height: 1.208em;
+  font-size: 38px;
+  line-height: 1.108em;
 }
 @media (max-width: 991px) {
   .cs_fs_50 {
@@ -1670,6 +1670,9 @@ textarea {
 .cs_accent_color {
   color: var(--accent-color);
 }
+.cs_logo_bg_shape svg {
+  filter: drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.05));
+}
 
 .cs_white_bg {
   background-color: var(--white-color);
@@ -1741,7 +1744,6 @@ textarea {
     min-height: 260px;
   }
 }
-
 .cs_btn.cs_style_1 {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
@@ -5618,7 +5620,7 @@ textarea {
     font-size: 80px;
   }
   .cs_about.cs_style_1 .cs_experience_title .cs_fs_50 {
-    font-size: 40px;
+    font-size: 30px;
   }
 }
 .cs_about.cs_style_1 .cs_about_text {
@@ -7321,21 +7323,24 @@ label {
 .cs_site_branding {
   position: relative;
   z-index: 3;
-  max-width: 290px;
+  max-width: 300px;
 }
 .cs_logo_bg_shape {
   position: absolute;
-  right: -155px;
+  right: -70px;
   bottom: 0;
   z-index: 2;
 }
+.enhanced-shadow svg {
+  filter: drop-shadow(0px 1px 4px rgba(0, 0, 0, 0.5));
+}
 .cs_logo_bg_shape::before {
-  content: "";
+  content: "";  
   position: absolute;
   right: 90px;
   height: 100%;
   width: 100vw;
-  background-color: var(--accent-color);
+  background-color: var(--white-color);
 }
 .cs_logo_bg_shape img {
   position: absolute;

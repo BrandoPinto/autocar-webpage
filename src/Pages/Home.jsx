@@ -21,29 +21,33 @@ const Home = () => {
 				img1="/assets/img/about_img_1.jpg"
 				img2="/assets/img/about_img_2.jpg"
 				img3="/assets/img/about_img_3.jpg"
-				expNumber="+5"
+				expNumber="+8"
 				expYers="Años"
-				expTitle="Experiencia"
+				expTitle="de Experiencia"
 				number="(+51) 913-944-963"
 				subTitle="Acerca de Nosotros"
-				Title="Título"
-				Content="Descripción descripción descripción descripción descripción descripción descripción descripción descripción"
-				feature1="Caracteristica 1"
-				feature2="Caracteristica 2"
+				Title="Pasión por proteger y personalizar tu auto"
+				Content="En Autocar Servicio Automotriz nos especializamos en la instalación de accesorios, protección y personalización de vehículos. Con más de 8 años de experiencia, ofrecemos servicios de alta calidad como PPF, polarizados, undercoating y mucho más."
+				feature1="Accesorios para Autos"
+				feature2="Protección Premium PPF"
 				listItem={[
-					'Detalle caracteristica',
-					'Detalle caracteristica',
-					'Detalle caracteristica',
-				]}></About1>
+					'Instalación profesional de polarizados',
+					'Undercoating para protección contra corrosión',
+					'Venta de accesorios personalizados',
+					'Atención personalizada y asesoramiento experto',
+				]}
+			/>
 			<Services1></Services1>
 			<Brand1></Brand1>
 			<Choose1
 				img1="/assets/img/feature_img_1.jpg"
-				content="Texto descriptivo text descriptivo text descriptivo text descriptivo text descriptivo text descriptivo text descriptivo text descriptivo"
+				content="En Autocar Servicio Automotriz cuidamos y personalizamos tu vehículo como se merece. Ofrecemos instalación de accesorios, protección de pintura (PPF), polarizados, undercoating y mucho más. Con nosotros, tu auto no solo se ve mejor, también está mejor protegido."
 				btnName="¡Contáctanos!"
 				btnUrl="/contacto"
 				img2="/assets/img/feature_img_2.jpg"
-				img3="/assets/img/feature_img_3.jpg"></Choose1>
+				img3="/assets/img/feature_img_3.jpg"
+			/>
+
 			{/* 
 			<BeforeAfter
 				title="Proyecto undercoating reciente"

@@ -18,6 +18,8 @@ const HeroBanner1 = () => {
         slidesToScroll: 1,
         arrows: false,
         swipeToSlide: true,
+        autoplay: true,
+        autoplaySpeed: 5000,
       };
 
     return (
@@ -25,7 +27,7 @@ const HeroBanner1 = () => {
         <section className="cs_slider cs_style_1">
           <div className="cs_slider_container" data-autoplay="0" data-loop="1" data-speed="900" data-center="0" data-variable-width="0" data-slides-per-view="1">
             <div className="cs_slider_wrapper">
-            <Slider {...settings}>
+            <Slider {...settings} className="hero-slider">
             {data.map((item, index)=>(
               <div key={index} className="cs_slide">
                 <div className="cs_hero cs_style_1 cs_type_1 cs_bg_filed cs_primary_bg cs_center" data-background={item.img}>

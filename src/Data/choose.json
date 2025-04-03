@@ -1,17 +1,17 @@
 [
   {
-    "img": "/assets/img/icons/car.svg",   
-    "title": "Caracterisitca 1",
-    "desc": "Texto de caracteristica."
+    "img": "/assets/img/icons/car.svg",
+    "title": "Accesorios de Alta Calidad",
+    "desc": "Trabajamos con las mejores marcas del mercado para equipar tu vehículo con estilo y funcionalidad."
   },
   {
-    "img": "/assets/img/icons/engine.svg",   
-    "title": "Caracterisitca 2",
-    "desc": "Texto de caracteristica."
+    "img": "/assets/img/icons/engine.svg",
+    "title": "Protección Profesional",
+    "desc": "Instalamos PPF, polarizados y undercoating con acabados impecables y garantía de durabilidad."
   },
   {
-    "img": "/assets/img/icons/gear_icon_2.svg",   
-    "title": "Caracterisitca 3",
-    "desc": "Texto de caracteristica."
-  }   
+    "img": "/assets/img/icons/gear_icon_2.svg",
+    "title": "Atención Personalizada",
+    "desc": "Nos enfocamos en brindar un servicio cercano y adaptado a las necesidades de cada cliente."
+  }
 ]
